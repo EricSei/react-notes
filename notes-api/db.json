@@ -1,0 +1,92 @@
+{
+  "notes": [
+    {
+      "title": "JavaScript",
+      "items": [],
+      "id": 1
+    },
+    {
+      "title": "Budget",
+      "items": [],
+      "id": 2
+    },
+    {
+      "title": "Books",
+      "items": [],
+      "id": 3
+    },
+    {
+      "title": "Grocery List",
+      "items": [],
+      "id": 4
+    },
+    {
+      "title": "Dream Vacation",
+      "items": [],
+      "id": 5
+    },
+    {
+      "title": "Rest API",
+      "items": [],
+      "id": 6
+    },
+    {
+      "title": "Applied",
+      "items": [],
+      "id": 7
+    },
+    {
+      "title": "JavaScript",
+      "items": [],
+      "id": 8
+    }
+  ],
+  "items": [
+    {
+      "noteId": 1,
+      "title": "Array List",
+      "desc": "Array List Item",
+      "isCompleted": true,
+      "id": 1
+    },
+    {
+      "noteId": 3,
+      "title": "The Alchemist",
+      "desc": "The Alchemist to read.",
+      "isCompleted": true,
+      "id": 2
+    },
+    {
+      "noteId": 1,
+      "title": "Graph",
+      "desc": "Graph DFS",
+      "isCompleted": true,
+      "id": 4
+    },
+    {
+      "noteId": 5,
+      "title": "Japan",
+      "desc": "Tokyo",
+      "isCompleted": true,
+      "id": 5
+    },
+    {
+      "noteId": 4,
+      "title": "Fruits",
+      "desc": "Mango, Water Melon",
+      "isCompleted": true,
+      "id": 6
+    },
+    {
+      "noteId": 7,
+      "title": "Bloomberg",
+      "isCompleted": true,
+      "desc": "SWE",
+      "id": 8
+    },
+    {
+      "isCompleted": true,
+      "id": 9
+    }
+  ]
+}
